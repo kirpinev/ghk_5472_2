@@ -143,7 +143,7 @@ export const App = () => {
             defaultMargins={false}
             style={{ fontSize: "20px" }}
           >
-            Или выберите пособие, которое хотели бы оформить
+            Выберите подходящую выплату
           </Typography.Text>
 
           <Gap size={4} />
