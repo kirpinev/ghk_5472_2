@@ -210,7 +210,7 @@ export const App = () => {
                 tag="p"
                 defaultMargins={false}
               >
-                Оформление офлайн
+                Офлайн через ведомство
               </Typography.Text>
             </div>
             <Gap size={8} />
@@ -333,7 +333,7 @@ export const App = () => {
         </div>
         <Gap size={24} />
         <ButtonMobile block loading={isLoading} view="primary" onClick={submit}>
-          Начать оформление
+          Оформить
         </ButtonMobile>
       </BottomSheet>
     </>
